@@ -1,2 +1,2 @@
-# Simple-SPA
-Simple "Single Page Applicatin" and Gulp.js Example
+örnek gulp projesi 
+Temel gulp kullanımı
