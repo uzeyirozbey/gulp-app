@@ -1,0 +1,35 @@
+{
+  "name": "gulp-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.4",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.15.4",
+    "browser-sync": "^2.27.5",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-image": "^6.2.1",
+    "gulp-sass": "^4.1.1",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "del": "^6.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-htmlmin": "^5.0.1",
+    "popper.js": "^1.16.1",
+    "run-sequence": "^2.2.1"
+  }
+}
